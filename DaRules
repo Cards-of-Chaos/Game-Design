@@ -32,6 +32,12 @@ On each of your turns, you will start with your maximum amount of Chaos Energy a
 - Move
 - Cast Spells
 - Use an Ability 
+- 
 
 **Responses**
 At the end of your turn, if you have any unused Chaos Energy, it will remain until the beginning of your next turn. Some spells have the "Response" tag. These spells may only be cast in response to a trigger. These triggers may be specific and described on the spell card, or more general to be worked out between you and your Chaos Master. 
+Responses follow the last in, first out rule. This means the last card played will be the first effect that happens in a series. For example: 
+	An enemy attacks you for 10 fire damage. You respond by casting Elemental Resistance. The Elemental Resistance spell happens first, followed by the attack. You would take 5 fire damage. 
+	An enemy Chaos Caster attacks you with a fireball. You respond with Counterspell to stop the effect. The enemy casts their own Counterspell in response. Your Counterspell against the Fireball is nullified, and the Fireball goes off. 
+
+These effects can become overwhelming with multiple responses being used simultaneously in the heat of combat. Be patient with yourself, your peers, and your Chaos Master when working through all of the effects and their respective position in order. 
