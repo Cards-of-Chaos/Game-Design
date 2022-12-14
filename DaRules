@@ -40,7 +40,7 @@ On each of your turns, you will start with your maximum amount of Chaos Energy a
 			- Grapple
 			- Tackle
 			- Talk
-- Use an Ability 
+- Ability Action
 - Free Action
 
 **Move**
@@ -61,13 +61,16 @@ You may choose to take a Kinesthetic Action instead of a Cast Action. These acti
 	- Weapon Attack: Attack from specified weapon range. Weapon Attack deals damage equal to Power Modifier * 3, unless otherwise specified by the weapon. A punch would deal damage equal to Power Modifier unless otherwise specified. 
 	- Dodge: Until your next turn, reduce the amount of damage taken by spell attacks and effects by Power Modifier * 3, and gain advantage on Saves, unless otherwise specified. 
 	- Use Object: Work with your CM to determine if the object you are trying to use would take a longer amount of time than 1 round, and what check (if any) is needed. 
-	- Climb: 
-	- Grapple: 
-	- Tackle: 
+	- Climb: Your Climbing speed is equal to half your total speed, and your CM may call for a Power Check. 
+	- Grapple: To grapple another creature, make a contested Power Check against the opposing creature. On a success, you have the opposing creature grappled. 
+	- Tackle: To tackle another creature, make a contested Power Check against the opposing creature. On a success, the opposing creature is knocked prone. 
 	- Talk: The talk action will normally require a Personality Check. Typically it is used to deescalate a situation, distract, or gain information. 
 
-*Use an Ability*
-Abilities are specified by character class during the character creation process. 
+*Ability Action* 
+Abilities are specified by character class during the character creation process. The Ability Point cost associated with each class' specific abilities are described during the character creation process. Your number of ability points are equal to 2*Chaos Modifier, with a minimum of 2. 
+
+*Free Action*
+A Free Action consists of any small action that likely will not have any associated checks. Some examples may include a shout or a wave. Work with your CM to determine what a Free Action might consist of for your table. 
 
 **Responses**
 At the end of your turn, if you have any unused Chaos Energy, it will remain until the beginning of your next turn. Some spells have the "Response" tag. These spells may only be cast in response to a trigger. These triggers may be specific and described on the spell card, or more general to be worked out between you and your Chaos Master. 
