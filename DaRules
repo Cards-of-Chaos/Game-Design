@@ -12,7 +12,9 @@
 
 ### The Game
 
+Cards of Chaos utilizes the Game Master and Player structure. Your Game Master, or Chaos Master (CM), is the governing body of the game at your table. They are responsible for running the game. This includes role-playing NPCs and monsters, calling for Checks and Saves, designing encounters, and creating 
 Cards of Chaos was created out of a joint passion of the designers for deck builder card games and table top role playing games. We hope that traditional TTRPG players and deck builders find Cards of Chaos the perfect blend of these game types. As a player of CoC you can not only personalize your character, but the spells at your disposal session after session. Strategy meets role play in this table top game where you never know what your next hand will bring. 
+
 
 ### Building your Deck
 
@@ -59,7 +61,7 @@ On each of your turns, you may move up to your listed movement speed. This movem
 The leading form of harnessing Chaos Energy, spellcasting. Casting spells will most often be what you spend your turns doing in a game of Cards of Chaos. During your turn, you will have the ability to cast any number of spells in your hand with your alloted Chaos Energy unless otherwise specified. Spells may be cast in or outside of combat, and some will have varying effects based on the situation they are cast in. Other spells contain tags to indicate additional effects or stipulations. Read your spell cards closely to avoid misplays and maximize value! 
 
 *Kinesthetic Actions*
-You may choose to take a Kinesthetic Action instead of a Cast Action. These actions are fully dependent on your character's attributes. Your CM may require a Power Check for the Hide, Melee, Use Object, Climb, Grapple, and Tackle, Actions, or a Personality Check for the Talk Action. 
+You may choose to take a Kinesthetic Action instead of a Cast Action. These actions are fully dependent on your character's attributes. Your CM may require a Power Check for the Hide, Melee, Use Object, Climb, Grapple, and Tackle Actions, or a Personality Check for the Talk Action. 
 	- Dash: Double Movement
 	- Hide: Hide from being detected. Enemies may roll against you. 
 	- Weapon Attack: Attack from specified weapon range. Weapon Attack deals damage equal to Power Modifier * 3, unless otherwise specified by the weapon. A punch would deal damage equal to Power Modifier unless otherwise specified. 
