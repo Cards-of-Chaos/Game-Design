@@ -22,7 +22,7 @@ When creating your character, there will be two distinct factors to guide your d
 **Class**
 Picking the Character Class when developing your character will determine what spells, abilities, and bonuses you have at your disposal. Each class has a distinct set of abilities, however, some spells are not exclusive to one class. Look over each option when determining your Character's Class:
 
-*Mage*
+#### Mage
 
 Passive Ability: At the beginning of combat, before your draw step, you may name a damage type. Any spells you cast dealing the named damage type deals additional damage equal to the mana cost of the spell. 
 
@@ -30,15 +30,22 @@ Active Ability: For 2 Ability Points, draw an additional card.
 - +1 to Chaos Modifier. 
 - -1 to Power Modfier. 
 
-*Berserker*
+#### Berserker
 
 Passive Ability: On your first turn in combat, you may draw an additional card at the beginning of your draw phase. If you choose to draw an additional card, it must be played during your Act step. 
 
 Active Ability: For 3 Ability Points, draw 5 cards, then discard your hand. Deal damage to a target within 6 spaces equal to the total Chaos Energy cost. 
+- +2 to Power Modifier
+- -1 to Personality Modifier
 
+#### Rogue
 
+Passive Ability: When you attack an enemy who has yet to take their turn during the first round of combat, you glean an insight into your enemy. Any status condition you attempt to inflict onto your target takes effect automatically. 
 
-
+Active Ability: For 2 Ability Points, deal 1.5X damage to an enemy currently under a status condition. 
+- -1 Chaos Modifier
+- +1 Power Modifier
+- +1 Personality Modifier
 
 ### Building your Deck
 
