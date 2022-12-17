@@ -24,11 +24,11 @@ When creating your character, there will be two distinct factors to guide your d
 In Cards of Chaos, characters have three main Attributes that define their skills and abilities. Each Attribute starts with 5 points, equal to a modifier of 0. Each point over 5 is plus 1 to the Attribute's modifier. Each point under 5 is minus 1 to the Attribute's modifier. The maximum amount of points for an Attribute is 10, with a minimum of 0. The three Attributes are: 
 
 ##### Chaos 
-Your Chaos Attribute relates to how much control you have over Chaos Magic. You will use your Chaos Modifier for checks and saves relating to magic. 
-Your Save DC is equal to 8 + Chaos Modifier + Level.  
-
+Your Chaos Attribute relates to how much control you have over Chaos Magic. You will use your Chaos Modifier for checks and saves relating to magic. When attempting to resist an effect caused my magic, you will roll your D20 and add your Chaos Modifier. 
+Your Spell Save DC is equal to 8 + Chaos Modifier + Level.  
 
 ##### Power
+Your Power Attribute relates to how much control you have over your physical 
 
 ##### Personality
 
