@@ -27,7 +27,7 @@ Picking the Character Class when developing your character will determine what s
 Passive Ability: At the beginning of combat, before your draw step, you may name a damage type. Any spells you cast dealing the named damage type deals additional damage equal to the mana cost of the spell. 
 
 Active Ability: For 2 Ability Points, draw an additional card. 
-- +1 to Chaos Modifier. 
+- +2 to Chaos Modifier. 
 - -1 to Power Modfier. 
 
 #### Berserker
@@ -43,9 +43,29 @@ Active Ability: For 3 Ability Points, draw 5 cards, then discard your hand. Deal
 Passive Ability: When you attack an enemy who has yet to take their turn during the first round of combat, you glean an insight into your enemy. Any status condition you attempt to inflict onto your target takes effect automatically. 
 
 Active Ability: For 2 Ability Points, deal 1.5X damage to an enemy currently under a status condition. 
-- -1 Chaos Modifier
 - +1 Power Modifier
 - +1 Personality Modifier
+
+#### Hunter
+
+Passive Ability: Gain advantage when making checks to track a creature. 
+
+Active Ability: For 3 Ability Points, deal double damage to a non humanoid creature on your next attack. 
+- +2 Power Modifier
+- +1 Chaos Modifier
+
+#### Martial 
+
+Passive Ability: Weapon Attacks deal an additional Power * 2 damage. 
+
+Active Ability: For 4 Ability Points, draw an additional card per successful melee spell attack of level 2 or lower. 
+- +2 Power Modifier
+- +1 Personality Modifier
+- -2 Chaos Modifier
+
+#### Support 
+
+Passive Ability: 
 
 ### Building your Deck
 
