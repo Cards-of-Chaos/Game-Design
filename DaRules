@@ -20,7 +20,24 @@ Cards of Chaos was created out of a joint passion of the designers for deck buil
 When creating your character, there will be two distinct factors to guide your decision making process: The Class, and the Attributes. 
 
 **Class**
-Picking the Character Class when developing your character will determine what spells, abilities, and bonuses you have at your disposal. Each class has a distinct set of abilities, however, some spells are not exclusive to one class. Look over each option when determining your Character Class. 
+Picking the Character Class when developing your character will determine what spells, abilities, and bonuses you have at your disposal. Each class has a distinct set of abilities, however, some spells are not exclusive to one class. Look over each option when determining your Character's Class:
+
+*Mage*
+
+Passive Ability: At the beginning of combat, before your draw step, you may name a damage type. Any spells you cast dealing the named damage type deals additional damage equal to the mana cost of the spell. 
+
+Active Ability: For 2 Ability Points, draw an additional card. 
+- +1 to Chaos Modifier. 
+- -1 to Power Modfier. 
+
+*Berserker*
+
+Passive Ability: On your first turn in combat, you may draw an additional card at the beginning of your draw phase. If you choose to draw an additional card, it must be played during your Act step. 
+
+Active Ability: For 3 Ability Points, draw 5 cards, then discard your hand. Deal damage to a target within 6 spaces equal to the total Chaos Energy cost. 
+
+
+
 
 
 ### Building your Deck
