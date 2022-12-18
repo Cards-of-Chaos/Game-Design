@@ -28,10 +28,11 @@ Your Chaos Attribute relates to how much control you have over Chaos Magic. You 
 Your Spell Save DC is equal to 8 + Chaos Modifier + Level.  
 
 ##### Power
-Your Power Attribute relates to how much control you have over your physical 
+Your Power Attribute relates to how much control you have over your physical form. You will use your Power Modifier for checks and saves relating to the kinesthetic. This includes Weapon Attacks, grappling, and others. 
+Your Power Save DC is equal to 8 + Power Modifier + Level
 
 ##### Personality
-
+Your Personality Attribute relates to how much control you have over social encounters. You will use your Personality Modifier for social checks and saves. Your Personality Save DC is equal to 8 + Personality Modifier + Level
 
 #### Class
 Picking the Character Class when developing your character will determine what spells, abilities, and bonuses you have at your disposal. Each class has a distinct set of abilities, however, some spells are not exclusive to one class. Look over each option when determining your Character's Class:
