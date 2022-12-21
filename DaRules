@@ -17,11 +17,11 @@ Cards of Chaos was created out of a joint passion of the designers for deck buil
 
 ### Creating Your Character
 
-When creating your character, there will be two distinct factors to guide your decision making process: The Class, and the Attributes. At Levels 3 and 7 you will gain an additional two Attribute Points to distribute among the three possible Attributes. 
+When creating your character, there will be two distinct factors to guide your decision making process: The Class, and the Attributes. At Levels 3 and 7 you will gain an additional two Attribute Points to distribute among the four possible Attributes. 
 
 #### Attributes
 
-In Cards of Chaos, characters have three main Attributes that define their skills and abilities. Each Attribute starts with 5 points, equal to a modifier of 0. Each point over 5 is plus 1 to the Attribute's modifier. Each point under 5 is minus 1 to the Attribute's modifier. The maximum amount of points for an Attribute is 10, with a minimum of 0. The three Attributes are: 
+In Cards of Chaos, characters have four main Attributes that define their skills and abilities. Each Attribute starts with 5 points, equal to a modifier of 0. Each point over 5 is plus 1 to the Attribute's modifier. Each point under 5 is minus 1 to the Attribute's modifier. The maximum amount of points for an Attribute is 10 (a +5 modifier), with a minimum of 0 (a -5 modifier). The four Attributes are: 
 
 ##### Chaos 
 Your Chaos Attribute relates to how much control you have over Chaos Magic. You will use your Chaos Modifier for checks and saves relating to magic. When attempting to resist an effect caused my magic, you will roll your D20 and add your Chaos Modifier. 
@@ -32,7 +32,12 @@ Your Power Attribute relates to how much control you have over your physical for
 Your Power Save DC is equal to 8 + Power Modifier + Level
 
 ##### Personality
-Your Personality Attribute relates to how much control you have over social encounters. You will use your Personality Modifier for social checks and saves. Your Personality Save DC is equal to 8 + Personality Modifier + Level
+Your Personality Attribute relates to how much control you have over social encounters. You will use your Personality Modifier for social checks and saves.
+Your Personality Save DC is equal to 8 + Personality Modifier + Level
+
+##### Health
+Your Health Attribute will inform your total amount of Hit Points (HP) available to you. Your base amount of HP will be determined by your class, with HP being added or subtracted by your Health Modifier. The formula for this is Health Mod * 4. The Health Attribute will also be used for medicine, exhaustion, and overall vitality checks and saves. 
+Your Health Save DC is equal to 8 + Health Modifier + Level. 
 
 #### Class
 Picking the Character Class when developing your character will determine what spells, abilities, and bonuses you have at your disposal. Each class has a distinct set of abilities, however, some spells are not exclusive to one class. Look over each option when determining your Character's Class:
@@ -42,62 +47,65 @@ Picking the Character Class when developing your character will determine what s
 *Passive Ability:* At the beginning of combat, before your draw step, you may name a damage type. Any spells you cast dealing the named damage type deals additional damage equal to the mana cost of the spell. 
 
 *Active Ability:* For 2 Ability Points, draw an additional card. 
-- +2 to Chaos Modifier. 
-- -1 to Power Modfier. 
+- +3 to Chaos Attribute 
+- -1 to Power Attribute. 
+- -1 Health Attribute
 
 ##### Berserker
 
 *Passive Ability:* On your first turn in combat, you may draw an additional card at the beginning of your draw phase. If you choose to draw an additional card, it must be played during your Act step. 
 
 *Active Ability:* For 3 Ability Points, draw 5 cards, then discard your hand. Deal damage to a target within 6 spaces equal to the total Chaos Energy cost. 
-- +2 to Power Modifier
-- -1 to Personality Modifier
+- +2 to Power Attribute
+- -2 to Personality Attribute
+- +1 Health Attribute
 
 ##### Rogue
 
 *Passive Ability:* When you attack an enemy who has yet to take their turn during the first round of combat, you glean an insight into your enemy. Any status condition you attempt to inflict onto your target takes effect automatically. 
 
 *Active Ability:* For 2 Ability Points, deal 1.5X damage to an enemy currently under a status condition. 
-- +1 Power Modifier
-- +1 Personality Modifier
+- +1 Power Attribute
+- +1 Personality Attribute
 
 ##### Hunter
 
 *Passive Ability:* Gain advantage when making checks to track a creature. 
 
-*Active Ability:* For 3 Ability Points, deal double damage to a non humanoid creature on your next attack. 
-- +2 Power Modifier
-- +1 Chaos Modifier
+*Active Ability:* For 2 Ability Points, deal double damage to a non humanoid creature on your next attack. 
+- +2 Power Attribute
+- -1 Personality Attribute
 
 ##### Martial 
 
 *Passive Ability:* Weapon Attacks deal an additional Power * 2 damage. 
 
-*Active Ability:* For 4 Ability Points, draw an additional card per successful melee spell attack of level 2 or lower. 
-- +2 Power Modifier
-- +1 Personality Modifier
-- -2 Chaos Modifier
+*Active Ability:* For 2 Ability Points, draw an additional card per successful melee spell attack of level 2 or lower. 
+- +2 Power Attribute
+- +1 Personality Attribute
+- -1 Chaos Attribute
 
 ##### Support 
 
-*Passive Ability:* Spells you cast that heal will heal for an additional 2*Chaos Modifier. 
+*Passive Ability:* Spells you cast that heal will heal for an additional 2 * Chaos Modifier. 
 
 *Active Ability:* For 2 Ability Points, the next spell you cast that deals damage heals a separate target for half the damage dealt. 
-- +2 Chaos Modifier
-- -1 Power Modifier
+- +2 Chaos Attribute
+- -1 Power Attribute
+- +1 Health Attribute
 
 ##### Shaman
 
 *Passive Ability:* You have advantage on checks to interact with non-humanoid creatures. 
 
 *Active Ability:* For 1 Ability Point, you summon a spirit familiar no larger than house cat. You can inhabit the familiar's senses, and can move it away from your corporeal body up to 120 feet from you. The Spirit's essence fades back to Chaos Energy after 1 minute * max Chaos Energy 
-- +1 Chaos Modifier
-- +2 Personality Modifier
-- -1 Power Modifier
+- +2 Chaos Attribute
+- +1 Personality Attribute
+- -1 Power Attribute
 
 ### Building your Deck
 
-When you build your first deck in Cards of Chaos, you'll first have to decide what type of character you want to be. Are you interested in playing an explosive Berserker, smashing those who stand in your way? Maybe you'd rather rely on stealth and cunning, waiting for the perfect moment to strike true and deliver one deadly blow. Whatever style of play you choose, this will be the backdrop for your personalized deck. 
+When you build your first deck in Cards of Chaos, you'll first have to decide what type of character you want to be. Are you interested in playing an explosive Berserker, smashing those who stand in your way? Maybe you'd rather rely on stealth and cunning, waiting for the perfect moment to strike true and deliver one deadly blow as the Rogue. Whatever style of play you choose, this will be the backdrop for your personalized deck. 
 
 As your character grows and develops, they will naturally gain more power and harness more Chaos Energy, allowing for more explosive, dynamic, and interesting spells. The following table describes at what level your character will gain access to more cards and more Chaos Energy. 
 https://docs.google.com/spreadsheets/d/1mbHTwXrPOLkWLNGegONyQNBziwowskSvziy9eHvuKLk/edit
@@ -105,58 +113,60 @@ https://docs.google.com/spreadsheets/d/1mbHTwXrPOLkWLNGegONyQNBziwowskSvziy9eHvu
 
 ### Combat
 
-Chaos is the name of the game, and what's Chaos without Combat? At the beginning of combat, each combatant will roll their D20 and add their Chaos Attribute Modifier. The combatant with the highest number goes first, and so on. 
+Chaos is the name of the game, and what's Chaos without Combat? At the beginning of combat, each combatant will roll their D20 and add their Power Attribute Modifier. The combatant with the highest number goes first, and so on. 
 After turn order is determined, each player will take their respective turn.
 
 #### Taking a Turn
 
 On each of your turns, you will start with your maximum amount of Chaos Energy at your disposal. At the start of your turn, you will draw one card. Then, you may do the following in any order. 
 - Move
-- Act
-	- Cast Action
-	- Kinesthetic Action
-			- Dash
-			- Hide
-			- Weapon Attack
-			- Dodge
-			- Use Object
-			- Climb
-			- Grapple
-			- Tackle
-			- Talk
+- Cast Action
+- Kinesthetic Action
+	- Dash
+	- Hide
+	- Weapon Attack
+	- Dodge
+	- Use Object
+	- Climb
+	- Grapple
+	- Tackle
+	- Talk
 - Ability Action
 - Free Action
 
-**Move**
+###### Move
+
 On each of your turns, you may move up to your listed movement speed. This movement does not need to happen all at once. For example, a player may move 3 spaces to get within melee range of an enemy, and then move an additional 3 spaces away from that enemy. Your movement may be increased or decreased depending on the situation, so be sure to keep note of any spells or conditions affecting you during a game. 
 
-**Act**
+##### Act
 
 	Choosing to act during a climactic scene where time is of the essence can be stressful. You'll have multiple choices to make with cards you may or may not have been expecting to draw, allies in need, enemies attacking, another player giving you additional information, and maybe you need to go to the bathroom. The last thing you or your table need is someone barking orders at you or making you feel rushed. 
 	When players are just beginning to learn the ins and outs of the game, they won't be familiar with their characters or their decks. Be patient with players when they are first starting, and offer help when asked. And if you are a new player learning everything all at once, just remember there are no wrong choices. Follow your gut and do what's fun. 
 
-*Cast Action (s)*
-The leading form of harnessing Chaos Energy, spellcasting. Casting spells will most often be what you spend your turns doing in a game of Cards of Chaos. During your turn, you will have the ability to cast any number of spells in your hand with your alloted Chaos Energy unless otherwise specified. Spells may be cast in or outside of combat, and some will have varying effects based on the situation they are cast in. Other spells contain tags to indicate additional effects or stipulations. Read your spell cards closely to avoid misplays and maximize value! 
+###### Cast Action
 
-*Kinesthetic Actions*
-You may choose to take a Kinesthetic Action instead of a Cast Action. These actions are fully dependent on your character's attributes. Your CM may require a Power Check for the Hide, Melee, Use Object, Climb, Grapple, and Tackle Actions, or a Personality Check for the Talk Action. 
-	- Dash: Double Movement
-	- Hide: Hide from being detected. Enemies may roll against you. 
-	- Weapon Attack: Attack from specified weapon range. Weapon Attack deals damage equal to Power Modifier * 3, unless otherwise specified by the weapon. A punch would deal damage equal to Power Modifier unless otherwise specified. 
-	- Dodge: Until your next turn, reduce the amount of damage taken by spell attacks and effects by Power Modifier * 3, and gain advantage on Saves, unless otherwise specified. 
+The leading form of harnessing Chaos Energy, spellcasting. Casting spells will most often be what you spend your turns doing in a game of Cards of Chaos. During your turn, you will have the ability to cast any number of spells in your hand with your alloted Chaos Energy unless otherwise specified. Spells may be cast in or outside of combat, and some will have varying effects based on the situation they are cast in. Other spells contain tags to indicate additional effects or stipulations. Read your spell cards closely to avoid misplays and maximize value.
+
+###### Kinesthetic Actions
+
+You may choose to take one Kinesthetic Action before or after your Cast Action. Your CM may require a Power Check for the Hide, Melee, Use Object, Climb, Grapple, and Tackle Actions, or a Personality Check for the Talk Action. 
+	- Dash: For one Chaos Energy, double your movement. 
+	- Hide: For two mana, you may attempt to hide from detection. An enemy may attempt to find you with a Power Check against your Power Save DC. 
+	- Weapon Attack: For one Chaos Energy, attack from a specified weapon range. Weapon Attack deals damage equal to Power Modifier * 3, unless otherwise specified by the weapon. An unarmed attack deals damage equal to your Power Modifier unless otherwise specified. 
+	- Dodge: For three Chaos Energy, until your next turn, reduce the amount of damage taken by spell attacks and effects by Power Modifier * 3, and gain advantage on all Saves, unless otherwise specified. 
 	- Use Object: Work with your CM to determine if the object you are trying to use would take a longer amount of time than 1 round, and what check (if any) is needed. 
-	- Climb: Your Climbing speed is equal to half your total speed, and your CM may call for a Power Check. 
-	- Grapple: To grapple another creature, the target makes a Power Save against your Power Save DC. On a failure, you have the opposing creature grappled. 
-	- Tackle: To tackle another creature, the target must make a Power Save against your power save DC. On a failure, the opposing creature is knocked prone. 
+	- Climb: For one Chaos Energy, your climbing speed is equal to half your total speed, and your CM may call for a Power Check. 
+	- Grapple: For two mana, you may attempt to grapple another creature. The target makes a Power Save against your Power Save DC. On a failure, you have the opposing creature grappled. 
+	- Tackle: For one Chaos Energy, you may attempt to tackle another creature. The target must make a Power Save against your power save DC. On a failure, the opposing creature is knocked prone. 
 	- Talk: The talk action will normally require a Personality Check against the target's Personality Save DC. Typically it is used to deescalate a situation, distract, or gain information during combat. 
 
-*Ability Action* 
-Abilities are specified by character class during the character creation process. The Ability Point cost associated with each class' specific abilities are described during the character creation process. Your number of ability points are equal to 2*Chaos Modifier, with a minimum of 2. 
+##### Ability Action
+Abilities are specified by character class during the character creation process. The Ability Point cost associated with each class' specific abilities are described during the character creation process. Your number of ability points are equal to 2 * Power Modifier, with a minimum of 2. 
 
-*Free Action*
+##### Free Action
 A Free Action consists of any small action that likely will not have any associated checks. Some examples may include a shout or a wave. Work with your CM to determine what a Free Action might consist of for your table. 
 
-**Responses**
+##### Responses
 At the end of your turn, if you have any unused Chaos Energy, it will remain until the beginning of your next turn. Some spells have the "Response" tag. These spells may only be cast in response to a trigger. These triggers may be specific and described on the spell card, or more general to be worked out between you and your Chaos Master. 
 Responses follow the last in, first out rule. This means the last card played will be the first effect that happens in a series. For example: 
 	An enemy attacks you for 10 fire damage. You respond by casting Elemental Resistance. The Elemental Resistance spell happens first, followed by the attack. You would take 5 fire damage. 
