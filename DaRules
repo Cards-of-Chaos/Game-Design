@@ -44,7 +44,7 @@ Picking the Character Class when developing your character will determine what s
 
 ##### Mage
 
-*Passive Ability:* At the beginning of combat, before your draw step, you may name a damage type. Any spells you cast dealing the named damage type deals additional damage equal to the mana cost of the spell. 
+*Passive Ability:* You may look at the top card of your deck at any time. 
 *Passive Ability:*
 
 *Active Ability:* For 2 Ability Points, draw an additional card. 
@@ -67,7 +67,7 @@ Picking the Character Class when developing your character will determine what s
 ##### Hunter
 
 *Passive Ability:* Gain advantage when making checks to track a creature. 
-*Passive Ability:*
+*Passive Ability:* At the beginning of combat, before your draw step, you may name a damage type. Any spells you cast dealing the named damage type deals additional damage equal to the mana cost of the spell. 
 
 *Active Ability:* For 2 Ability Points, deal double damage to a non humanoid creature on your next attack. 
 
