@@ -36,7 +36,7 @@ Your Personality Attribute relates to how much control you have over social enco
 Your Personality Save DC is equal to 8 + Personality Modifier + Level
 
 ##### Health
-Your Health Attribute will inform your total amount of Hit Points (HP) available to you. Your base amount of HP will be determined by your class, with HP being added or subtracted by your Health Modifier. The formula for this is Health Mod * 4. The Health Attribute will also be used for medicine, exhaustion, and overall vitality checks and saves. 
+Your Health Attribute will inform your total amount of Hit Points (HP) available to you. Your base amount of HP will be determined by your class, with HP being added or subtracted by your Health Modifier. The Health Attribute will also be used for medicine, exhaustion, and overall vitality checks and saves. 
 Your Health Save DC is equal to 8 + Health Modifier + Level. 
 
 #### Class
