@@ -45,43 +45,50 @@ Picking the Character Class when developing your character will determine what s
 ##### Mage
 
 *Passive Ability:* At the beginning of combat, before your draw step, you may name a damage type. Any spells you cast dealing the named damage type deals additional damage equal to the mana cost of the spell. 
+*Passive Ability:*
 
 *Active Ability:* For 2 Ability Points, draw an additional card. 
 
 ##### Berserker
 
-*Passive Ability:* On your first turn in combat, you may draw an additional card at the beginning of your draw phase. If you choose to draw an additional card, it must be played during your Act step. 
+*Passive Ability:* On your first turn in combat, you may draw an additional card at the beginning of your draw phase. If you choose to draw an additional card, it must be played during your Act step, or it is discarded at the end of your turn. 
+*Passive Ability:*
 
-*Active Ability:* For 3 Ability Points, draw 5 cards, then discard your hand. Deal damage to a target within 6 spaces equal to the total Chaos Energy cost.
+*Active Ability:* For 3 Ability Points, draw 5 cards, then discard your hand. Deal damage to a target within 6 spaces equal to the total Chaos Energy cost. (High Level/Subclass)
 *Active Ability:* For 2 Ability Points, draw an additional card and gain an additional mana. At the end of your turn, discard two cards. 
 
 ##### Rogue
 
 *Passive Ability:* When you attack an enemy who has yet to take their turn during the first round of combat, you glean an insight into your enemy. Any status condition you attempt to inflict onto your target takes effect automatically. 
+*Passive Ability:*
 
 *Active Ability:* For 2 Ability Points, deal 1.5X damage to an enemy currently under a status condition. 
 
 ##### Hunter
 
 *Passive Ability:* Gain advantage when making checks to track a creature. 
+*Passive Ability:*
 
 *Active Ability:* For 2 Ability Points, deal double damage to a non humanoid creature on your next attack. 
 
 ##### Martial 
 
-*Passive Ability:* Weapon Attacks deal an additional Power * 2 damage. 
+*Passive Ability:* Weapon Attacks deal additional damage equal to your Power Modifier. 
+*Passive Ability:*
 
 *Active Ability:* For 2 Ability Points, draw an additional card per successful melee spell attack of level 2 or lower. 
 
 ##### Support 
 
-*Passive Ability:* Spells you cast that heal will heal for an additional 2 * Chaos Modifier. 
+*Passive Ability:* Spells you cast that heal will heal for an additional 2 * Chaos Modifier in total. 
+*Passive Ability:*
 
 *Active Ability:* For 2 Ability Points, the next spell you cast that deals damage heals a separate target for half the damage dealt. 
 
 ##### Shaman
 
 *Passive Ability:* You have advantage on checks to interact with non-humanoid creatures. 
+*Passive Ability:*
 
 *Active Ability:* For 1 Ability Point, you summon a spirit familiar no larger than house cat. You can inhabit the familiar's senses, and can move it away from your corporeal body up to 120 feet from you. The Spirit's essence fades back to Chaos Energy after 1 minute * max Chaos Energy 
 
