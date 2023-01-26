@@ -25,19 +25,19 @@ In Cards of Chaos, characters have four main Attributes that define their skills
 
 ##### Chaos 
 Your Chaos Attribute relates to how much control you have over Chaos Magic. You will use your Chaos Modifier for checks and saves relating to magic. When attempting to resist an effect caused my magic, you will roll your D20 and add your Chaos Modifier. 
-Your Spell Save DC is equal to 8 + Chaos Modifier + Level.  
+Your Spell Save DC is equal to 8 + Chaos Modifier + Proficiency.  
 
 ##### Power
 Your Power Attribute relates to how much control you have over your physical form. You will use your Power Modifier for checks and saves relating to the kinesthetic. This includes Weapon Attacks, grappling, and others. 
-Your Power Save DC is equal to 8 + Power Modifier + Level
+Your Power Save DC is equal to 8 + Power Modifier + Proficiency
 
-##### Personality
-Your Personality Attribute relates to how much control you have over social encounters. You will use your Personality Modifier for social checks and saves.
-Your Personality Save DC is equal to 8 + Personality Modifier + Level
+##### Prowess
+Your Prowess Attribute relates to how much control you have over social encounters. You will use your Prowess Modifier for social checks and saves.
+Your Prowess Save DC is equal to 8 + Prowess Modifier + Proficiency
 
 ##### Health
 Your Health Attribute will inform your total amount of Hit Points (HP) available to you. Your base amount of HP will be determined by your class, with HP being added or subtracted by your Health Modifier. The Health Attribute will also be used for medicine, exhaustion, and overall vitality checks and saves. 
-Your Health Save DC is equal to 8 + Health Modifier + Level. 
+Your Health Save DC is equal to 8 + Health Modifier + Proficiency. 
 
 #### Class
 Picking the Character Class when developing your character will determine what spells, abilities, and bonuses you have at your disposal. Each class has a distinct set of abilities, however, some spells are not exclusive to one class. Look over each option when determining your Character's Class:
@@ -141,7 +141,7 @@ The leading form of harnessing Chaos Energy, spellcasting. Casting spells will m
 
 ###### Kinesthetic Actions
 
-You may choose to take one Kinesthetic Action before or after your Cast Action. Your CM may require a Power Check for the Hide, Melee, Use Object, Climb, Grapple, and Tackle Actions, or a Personality Check for the Talk Action. 
+You may choose to take one Kinesthetic Action before or after your Cast Action. Your CM may require a Power Check for the Hide, Melee, Use Object, Climb, Grapple, and Tackle Actions, or a Prowess Check for the Talk Action. 
 	- Dash: For one Chaos Energy, double your movement. 
 	- Hide: For two Chaos Energy, you may attempt to hide from detection. An enemy may attempt to find you with a Power Check against your Power Save DC. 
 	- Weapon Attack: For one Chaos Energy, attack from a specified weapon range. Weapon Attack deals damage equal to Power Modifier * 3, unless otherwise specified by the weapon. An unarmed attack deals damage equal to your Power Modifier unless otherwise specified. 
@@ -150,7 +150,7 @@ You may choose to take one Kinesthetic Action before or after your Cast Action. 
 	- Climb: For one Chaos Energy, your climbing speed is equal to half your total speed, and your CM may call for a Power Check. 
 	- Grapple: For two mana, you may attempt to grapple another creature. The target makes a Power Save against your Power Save DC. On a failure, you have the opposing creature grappled. 
 	- Tackle: For one Chaos Energy, you may attempt to tackle another creature. The target must make a Power Save against your power save DC. On a failure, the opposing creature is knocked prone. 
-	- Talk: The talk action will normally require a Personality Check against the target's Personality Save DC. Typically it is used to deescalate a situation, distract, or gain information during combat. 
+	- Talk: The talk action will normally require a Prowess Check against the target's Save DC. Typically it is used to deescalate a situation, distract, or gain information during combat. 
 
 ##### Ability Action
 Abilities are specified by character class during the character creation process. The Ability Point cost associated with each class' specific abilities are described during the character creation process. Your number of ability points are equal to 2 * Power Modifier, with a minimum of 2. 
