@@ -1,6 +1,6 @@
 # Cards of Chaos
 
-## Table of Contents
+#### Table of Contents
 
 ###### The Game
 
@@ -49,15 +49,34 @@ Character features will help the player differentiate their character from the o
 **Character Point Cost - 3**
 
 *Damage Resistance:* You gain resistance to one of the following damage types. This type cannot be changed after choosing. 
-Fire
-Ice
-Electric
-Poison
-Acid
+Fire, Ice, Electric, Poison, Acid
+
 *Resilience:* When you are reduced to 0 hit points, you are instead reduced to 1 hit point. You cannot use this feature again until you finish a long rest.
+
 *Chaos Prodigy:* You are naturally gifted in the use of chaos magic. At level 1, you are able to cast one first level spell from your spell list without expending the card. At level 3, you are able to expend one second level spell from your spell list without expending the card. Once you cast a spell this way, you cannot do so again until finishing a long rest.
+
 *Luck:* When you roll a 1 on a D20 roll, you may reroll the die. You must use the new roll.
-*
+
+**Character Point Cost - 4**
+
+*Flying:* Your character has wings that grant you a fly speed of 6 spaces.
+
+*Mark of an Angel:* Your character receives the mark of an angel granting the following benefits:
+Resistance to radiant damage.
+Kinesthetic action: Healing Hands 1 Mana: You heal target creature for 3 hit points. You can use this ability a number of times equal to your proficiency bonus.
+Angelic Wings: Kinesthetic action 2 Mana: Angelic wings sprout from your back granting you a flying speed equal to your walking speed for one minute. Once you use this ability, you cannot do so again until you finish a long rest.
+
+*Mark of a Devil:* Your character receives the mark of a devil granting the following benefits:
+Resistance to necrotic damage.
+Devil's Curse: Kinesthetic action 1 Mana: You mark target creature in range for 2 turns. For the duration of the curse, all attacks deal an additional 2 damage to the marked creature. You can use this ability a number of times equal to your proficiency bonus.
+Devil Wings: Kinesthetic action 2 Mana: Devilish wings sprout from your back granting you a flying speed equal to your walking speed for one minute. Once you use this ability, you cannot do so again until you finish a long rest.
+
+*Dragon Descendant:* You are a descendant of a dragon granting you a breath weapon and resistance to the type of dragon. You gain a new kinesthetic action called breath weapon that costs 2 mana. When taking this action you release your attack in a 3 space cone dealing 7 damage of the type you chose. You can use this action a number of times equal to your proficiency bonus. You regain all expended uses after finishing a long rest.
+Pick a damage type from the list below:
+Fire, Ice, Electric, Poison, Acid
+
+**Character Point Cost - 5**
+*Chaos Resistance:* You have advantage on saving throws against spell effects.
 
 #### Attributes
 
