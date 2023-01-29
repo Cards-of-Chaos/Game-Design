@@ -4,15 +4,15 @@
 
 ###### The Game
 
-###### Building Your Deck
-
 ###### Creating Your Character
 
-###### Movement
+###### Building Your Deck
 
 ###### Character Size
 
 ###### Combat
+
+###### Rests
 
 ### The Game
 
@@ -83,7 +83,7 @@ Fire, Ice, Electric, Poison, Acid
 In Cards of Chaos, characters have four main Attributes that define their skills and abilities. Each Attribute starts with 5 points, equal to a modifier of 0. Each point over 5 is plus 1 to the Attribute's modifier. Each point under 5 is minus 1 to the Attribute's modifier. The maximum amount of points for an Attribute is 10 (a +5 modifier), with a minimum of 0 (a -5 modifier). At Levels 4, 8, 12, and 15 you will gain an additional two Attribute Points to distribute among the four possible Attributes. At level 1, you get 2 ability points to put into any of the four Attributes. If you choose, you can also reduce one Attribute from the base 5 to 4 at level 1, and gain an additional Attribute Point to distribute to a thrid Attribute. No single Attribute can be at a score of 8 at level 1. The four Attributes are: 
 
 ##### Chaos 
-Your Chaos Attribute relates to how much control you have over Chaos Magic. You will use your Chaos Modifier for checks and saves relating to magic. When attempting to resist an effect caused my magic, you will roll your D20 and add your Chaos Modifier. 
+Your Chaos Attribute relates to how much control you have over Chaos Magic. You will use your Chaos Modifier for checks and saves relating to magic. When attempting to resist a magical effect, you will likely add your chaos modifier to your saving throw. 
 Your Spell Save DC is equal to 8 + Chaos Modifier + Proficiency.  
 
 ##### Power
@@ -155,16 +155,12 @@ Picking the Character Class when developing your character will determine what s
 
 *Active Ability:* For 2 Ability Points, the next spell you cast that deals damage heals a separate target for half the damage dealt. 
 
-
-
-
 ### Building your Deck
 
-When you build your first deck in Cards of Chaos, you'll first have to decide what type of character you want to be. Are you interested in playing an explosive Berserker, smashing those who stand in your way? Maybe you'd rather rely on stealth and cunning, waiting for the perfect moment to strike true and deliver one deadly blow as the Rogue. Whatever style of play you choose, this will be the backdrop for your personalized deck. 
+Building a deck is the most important aspect of this game. It allows you to create a unique combination of spells that will allow your character to excel in combat and navigate the world around you. You are never locked into a set deck as you will have the ability to exchange cards in your deck with other spells from your spell list during a short and long rest. The diagram below indicates how many of each spell level you can have in your deck, how many of each card of a specific spell level, and your deck size as you level up on your adventure.
 
-As your character grows and develops, they will naturally gain more power and harness more Chaos Energy, allowing for more explosive, dynamic, and interesting spells. The following table describes at what level your character will gain access to more cards and more Chaos Energy. 
-https://docs.google.com/spreadsheets/d/1mbHTwXrPOLkWLNGegONyQNBziwowskSvziy9eHvuKLk/edit
 
+After you build your deck, you may build a sideboard to exchange cards in your deck during short rests. Your sideboard can include any spellcard your character has access to casting. You may be prepared for a fight against a large beast in the forest that's been terrorizing a small village, when you get sidetracked by an immminent threat to your home city. Your sideboard should consist of cards that you feel may be useful to you at some point during the course of a day in your game, but not for your current objective. Think of your sideboard as your emergency kit. You hope you won't need it, but it's a good thing to have. See rules on Rests to read more rules about your Sideboard. 
 
 ### Combat
 
@@ -189,9 +185,13 @@ On each of your turns, you will start with your maximum amount of Chaos Energy a
 - Ability Action
 - Free Action
 
-###### Move
+###### Movement
 
-On each of your turns, you may move up to your listed movement speed. This movement does not need to happen all at once. For example, a player may move 3 spaces to get within melee range of an enemy, and then move an additional 3 spaces away from that enemy. Your movement may be increased or decreased depending on the situation, so be sure to keep note of any spells or conditions affecting you during a game. 
+On each of your turns, you may move up to your listed movement speed. This movement does not need to happen all at once. For example, a player may move 3 spaces to get within melee range of an enemy, and then move an additional 3 spaces away from that enemy. Your movement may be increased or decreased depending on the situation, so be sure to keep note of any spells or conditions effecting you during a game. 
+
+**Moving Through Occupied Spaces**
+
+When moving through a space currently occupied by an ally, you may move through their space freely, as long as they are not attempting to block your movement. When attempting to move through an enemy space, the enemy may attempt a Kinesthetic action such as grapple or a weapon attack if they have the required Chaos Energy. No spells outside of response spells may be cast as part of this action. 
 
 ##### Act
 
@@ -228,3 +228,10 @@ Responses follow the last in, first out rule. This means the last card played wi
 	An enemy Chaos Caster attacks you with a fireball. You respond with Counterspell to stop the effect. The enemy casts their own Counterspell in response. Your Counterspell against the Fireball is nullified, and the Fireball goes off. 
 
 These effects can become overwhelming with multiple responses being used simultaneously in the heat of combat. Be patient with yourself, your fellow players, and your Chaos Master when working through all of the effects and their respective position in order. 
+
+### Rest
+
+During the course of a game of Cards of Chaos, your CM may allow for a short or long rest. These rests are meant for your character to recuperate after any of the many trials and tribulations they are sure to take on. The two types of rests allow for varying degrees of recuperation, as described below: 
+
+**Short Rests**
+On a short rest, your character is taking thirty minutes to one hour to rest and relax. This time may be spent refining their skills, reading a book, napping, eating, lightly socializing, getting familiar with a new tool or weapon, or the like. During this time, you may access your character's sideboard and or regenerate HP. The amount of cards in your sideboard is determined by the following formula: Proficiency Bonus + Prowess Modifier (or Chaos). You may also heal your character a certain amount from the following formula: Proficiency Bonus x Tenacity Modifier. Treat any modifier less than one as a one.  
