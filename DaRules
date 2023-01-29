@@ -164,8 +164,7 @@ After you build your deck, you may build a sideboard to exchange cards in your d
 
 ### Combat
 
-Chaos is the name of the game, and what's Chaos without Combat? At the beginning of combat, each combatant will roll their D20 and add their Power Attribute Modifier. The combatant with the highest number goes first, and so on. 
-After turn order is determined, each player will take their respective turn.
+Chaos is the name of the game, and what's Chaos without Combat? At the beginning of combat, each combatant will draw their initial hand of cards for the combat from the top of their deck. The amount of initial cards drawn will change over time, and can be found in the Deck Building Table above. After drawing their cards, each fighter roll a D20 and add their Power Modifier. The combatant with the highest number goes first, and so on. Once each character in the initiataive order has finished their turn, it resets to the top of the order. That is one round. Each round takes 6 seconds of in game time. 
 
 #### Taking a Turn
 
@@ -234,4 +233,11 @@ These effects can become overwhelming with multiple responses being used simulta
 During the course of a game of Cards of Chaos, your CM may allow for a short or long rest. These rests are meant for your character to recuperate after any of the many trials and tribulations they are sure to take on. The two types of rests allow for varying degrees of recuperation, as described below: 
 
 **Short Rests**
-On a short rest, your character is taking thirty minutes to one hour to rest and relax. This time may be spent refining their skills, reading a book, napping, eating, lightly socializing, getting familiar with a new tool or weapon, or the like. During this time, you may access your character's sideboard and or regenerate HP. The amount of cards in your sideboard is determined by the following formula: Proficiency Bonus + Prowess Modifier (or Chaos). You may also heal your character a certain amount from the following formula: Proficiency Bonus x Tenacity Modifier. Treat any modifier less than one as a one.  
+On a short rest, your character takes thirty minutes to one hour to rest and relax. This time may be spent refining their skills, reading a book, napping, eating, lightly socializing, getting familiar with a new tool or weapon, or the like. During this time, you may access your character's sideboard and or regenerate HP. The amount of cards in your sideboard is determined by the following formula: Proficiency Bonus + Prowess Modifier (or Chaos). Any cards in your deck may be exchanged for any other card in your sideboard. You may also heal your character a certain amount from the following formula: Proficiency Bonus x Tenacity Modifier. Treat any modifier less than one as a one. 
+If your short rest is interrupted, you may attempt to restart. 
+Your characters may rest as much or as little as they are able, but they will only gain the benefits of a short rest once every long rest. 
+
+**Long Rests** 
+Long rests are between 6 and 8 hours. Six of those hours must be spent sleeping, the reamining two may be spent continuing to sleep, or doing any activity that would qualify as a short rest. While your character sleeps, you may exchange any number of cards in your deck and sideboard for any other card. Any exiled card from your deck returns as well. You also heal in the night, and your HP returns to its maximum if you complete the entire rest. 
+Any interrupted rest for longer than 30 minutes will result in needing to restart the long rest clock for your character. 
+You may only gain the benefits of a long rest once every dawn. 
