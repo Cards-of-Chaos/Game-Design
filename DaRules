@@ -2,13 +2,17 @@
 
 ## Table of Contents
 
-**The Game**
+###### The Game
 
-**Building Your Deck**
+###### Building Your Deck
 
-**Creating Your Character**
+###### Creating Your Character
 
-**Combat**
+###### Movement
+
+###### Character Size
+
+###### Combat
 
 ### The Game
 
@@ -17,11 +21,47 @@ Cards of Chaos was created out of a joint passion of the designers for deck buil
 
 ### Creating Your Character
 
-When creating your character, there will be two distinct factors to guide your decision making process: The Class, and the Attributes. At Levels 4, 8, 12, and 15 you will gain an additional two Attribute Points to distribute among the four possible Attributes. At level 1, you get 2 ability points to put into any of the four attributes. If you choose, you can also reduce one Attribute from the base 5 to 4, and gain an additional Attribute Point to distribute to a thrid Attribute. 
+The first step in character creation is developing a background for your character to fit them into the game world they'll be inhabiting. Choose a race or species (such as Human, Elf, Dwarf, Gnome, Orc, Animal Folk etc.) for your character that fits in the world your CM has created. Your choice will not have a mechanic impact on the game, but may help you determine how the character is played or interacts with the world. Your background can include the profession of your character and/or reasoning for seeking adventure. Use your character background information to guide your choices when developing your character. 
+
+Characters beginning their journey at level 1 will generally be unskilled with little adventuring experience. Keep this in mind when creating your early level characters and speak with your CM if there are certain experiences you feel your character should possess. Overall, have fun and be creative when making your background. This is your opportunity to create a character that matches your playstyle and will shape how your character interacts with the world created by your CM.
+
+When creating your character, there will be three distinct factors to guide your decision making process: The Class, Attributes, and Features.  
+
+#### Features
+
+Character features will help the player differentiate their character from the other player characters. Since picking a race in this game does not grant any mechanical advantages, the player can instead choose which features their character has from the start. Players receive 5 Character Points at the beginning of character creation used to buy Features from the Character Feature Page. Players can choose any combination of features, but the total Character Points of these features cannot exceed 5, and no Feature can be purchased twice. Character Features grant you the opportunity to make your character unique. You can choose a combination that feels powerful or a combination that is thematic with your background. For example, a background of a scholarly elf could lead to a player choosing darkvision and a skill proficiency in knowledge. Keep in mind, once you solidify your character features with your CM they cannot be changed unless specified by the CM.
+
+**Character Point Cost - 1**
+
+*Speedy:* You gain an additional 1 space to your walking speed.
+*Darkvision:* You have the ability to see in dark and dim light up to 30 feet as though it were normal light.
+*Claws:* You have sharp claws. Unarmed attacks deal an additional 2 damage.
+*Skilled:* You gain proficiency in a skill of your choice.
+
+**Character Point Cost - 2**
+
+*Small Build:* You are considered small for your size. This grants you the ability to fit into smaller areas and cross through spaces a creature occupies if their size is larger than yours.
+*Powerful Build:* You have a carrying capacity that is twice the normal amount. You are granted advantage on athletic and power checks.
+*Water Breathing:* You can breath in air and water. You also have a swim speed equal to your walking speed.
+*Climber:* You gain a climbing speed equal to your walking speed.
+*Card Initiative:* You start combat with one additional card in hand.
+
+**Character Point Cost - 3**
+
+*Damage Resistance:* You gain resistance to one of the following damage types. This type cannot be changed after choosing. 
+Fire
+Ice
+Electric
+Poison
+Acid
+*Resilience:* When you are reduced to 0 hit points, you are instead reduced to 1 hit point. You cannot use this feature again until you finish a long rest.
+*Chaos Prodigy:* You are naturally gifted in the use of chaos magic. At level 1, you are able to cast one first level spell from your spell list without expending the card. At level 3, you are able to expend one second level spell from your spell list without expending the card. Once you cast a spell this way, you cannot do so again until finishing a long rest.
+*Luck:* When you roll a 1 on a D20 roll, you may reroll the die. You must use the new roll.
+*
 
 #### Attributes
 
-In Cards of Chaos, characters have four main Attributes that define their skills and abilities. Each Attribute starts with 5 points, equal to a modifier of 0. Each point over 5 is plus 1 to the Attribute's modifier. Each point under 5 is minus 1 to the Attribute's modifier. The maximum amount of points for an Attribute is 10 (a +5 modifier), with a minimum of 0 (a -5 modifier). The four Attributes are: 
+In Cards of Chaos, characters have four main Attributes that define their skills and abilities. Each Attribute starts with 5 points, equal to a modifier of 0. Each point over 5 is plus 1 to the Attribute's modifier. Each point under 5 is minus 1 to the Attribute's modifier. The maximum amount of points for an Attribute is 10 (a +5 modifier), with a minimum of 0 (a -5 modifier). At Levels 4, 8, 12, and 15 you will gain an additional two Attribute Points to distribute among the four possible Attributes. At level 1, you get 2 ability points to put into any of the four Attributes. If you choose, you can also reduce one Attribute from the base 5 to 4 at level 1, and gain an additional Attribute Point to distribute to a thrid Attribute. No single Attribute can be at a score of 8 at level 1. The four Attributes are: 
 
 ##### Chaos 
 Your Chaos Attribute relates to how much control you have over Chaos Magic. You will use your Chaos Modifier for checks and saves relating to magic. When attempting to resist an effect caused my magic, you will roll your D20 and add your Chaos Modifier. 
@@ -32,6 +72,7 @@ Your Power Attribute relates to how much control you have over your physical for
 Your Power Save DC is equal to 8 + Power Modifier + Proficiency
 
 ##### Prowess
+
 Your Prowess Attribute relates to how much control you have over social encounters. You will use your Prowess Modifier for social checks and saves.
 Your Prowess Save DC is equal to 8 + Prowess Modifier + Proficiency
 
@@ -95,6 +136,9 @@ Picking the Character Class when developing your character will determine what s
 
 *Active Ability:* For 2 Ability Points, the next spell you cast that deals damage heals a separate target for half the damage dealt. 
 
+
+
+
 ### Building your Deck
 
 When you build your first deck in Cards of Chaos, you'll first have to decide what type of character you want to be. Are you interested in playing an explosive Berserker, smashing those who stand in your way? Maybe you'd rather rely on stealth and cunning, waiting for the perfect moment to strike true and deliver one deadly blow as the Rogue. Whatever style of play you choose, this will be the backdrop for your personalized deck. 
@@ -147,7 +191,7 @@ You may choose to take one Kinesthetic Action before or after your Cast Action. 
 	- Weapon Attack: For one Chaos Energy, attack from a specified weapon range. Weapon Attack deals damage equal to Power Modifier * 3, unless otherwise specified by the weapon. An unarmed attack deals damage equal to your Power Modifier unless otherwise specified. 
 	- Dodge: For three Chaos Energy, until your next turn, reduce the amount of damage taken by spell attacks and effects by Power Modifier * 3, and gain advantage on all Saves, unless otherwise specified. 
 	- Use Object: Work with your CM to determine if the object you are trying to use would take a longer amount of time than 1 round, and what check (if any) is needed. 
-	- Climb: For one Chaos Energy, your climbing speed is equal to half your total speed, and your CM may call for a Power Check. 
+	- Climb: For one Chaos Energy, your climbing speed is equal to half your walking speed, unless you have the *Climber* Feature. Your CM may call for a Power Check. 
 	- Grapple: For two mana, you may attempt to grapple another creature. The target makes a Power Save against your Power Save DC. On a failure, you have the opposing creature grappled. 
 	- Tackle: For one Chaos Energy, you may attempt to tackle another creature. The target must make a Power Save against your power save DC. On a failure, the opposing creature is knocked prone. 
 	- Talk: The talk action will normally require a Prowess Check against the target's Save DC. Typically it is used to deescalate a situation, distract, or gain information during combat. 
