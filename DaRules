@@ -88,16 +88,13 @@ Your Spell Save DC is equal to 8 + Chaos Modifier + Proficiency.
 
 ##### Power
 Your Power Attribute relates to how much control you have over your physical form. You will use your Power Modifier for checks and saves relating to the kinesthetic. This includes Weapon Attacks, grappling, and others. 
-Your Power Save DC is equal to 8 + Power Modifier + Proficiency
 
 ##### Prowess
 
 Your Prowess Attribute relates to how much control you have over social encounters. You will use your Prowess Modifier for social checks and saves.
-Your Prowess Save DC is equal to 8 + Prowess Modifier + Proficiency
 
-##### Health
+##### Tenacity
 Your Health Attribute will inform your total amount of Hit Points (HP) available to you. Your base amount of HP will be determined by your class, with HP being added or subtracted by your Health Modifier. The Health Attribute will also be used for medicine, exhaustion, and overall vitality checks and saves. 
-Your Health Save DC is equal to 8 + Health Modifier + Proficiency. 
 
 #### Class
 Picking the Character Class when developing your character will determine what spells, abilities, and bonuses you have at your disposal. Each class has a distinct set of abilities, however, some spells are not exclusive to one class. Look over each option when determining your Character's Class:
@@ -159,7 +156,6 @@ Picking the Character Class when developing your character will determine what s
 
 Building a deck is the most important aspect of this game. It allows you to create a unique combination of spells that will allow your character to excel in combat and navigate the world around you. You are never locked into a set deck as you will have the ability to exchange cards in your deck with other spells from your spell list during a short and long rest. The diagram below indicates how many of each spell level you can have in your deck, how many of each card of a specific spell level, and your deck size as you level up on your adventure.
 
-
 After you build your deck, you may build a sideboard to exchange cards in your deck during short rests. Your sideboard can include any spellcard your character has access to casting. You may be prepared for a fight against a large beast in the forest that's been terrorizing a small village, when you get sidetracked by an immminent threat to your home city. Your sideboard should consist of cards that you feel may be useful to you at some point during the course of a day in your game, but not for your current objective. Think of your sideboard as your emergency kit. You hope you won't need it, but it's a good thing to have. See rules on Rests to read more rules about your Sideboard. 
 
 ### Combat
@@ -215,7 +211,7 @@ You may choose to take one Kinesthetic Action before or after your Cast Action. 
 	- Talk: The talk action will normally require a Prowess Check against the target's Save DC. Typically it is used to deescalate a situation, distract, or gain information during combat. 
 
 ##### Ability Action
-Abilities are specified by character class during the character creation process. The Ability Point cost associated with each class' specific abilities are described during the character creation process. Your number of ability points are equal to 2 * Power Modifier, with a minimum of 2. 
+Abilities are specified by character class during the character creation process. The Ability Point cost associated with each class' specific abilities are described during the character creation process. Your number of ability points are equal to Proficiency Bonus plus Power Modifier. 
 
 ##### Free Action
 A Free Action consists of any small action that likely will not have any associated checks. Some examples may include a shout or a wave. Work with your CM to determine what a Free Action might consist of for your table. 
