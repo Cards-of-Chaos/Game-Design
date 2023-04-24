@@ -232,6 +232,55 @@ Cards of Chaos uses various damage types to provide players with an array of spe
 
 ##### Status Conditions
 
+Status conditions will arise most often during conflict; physical or social. Certain cards will have tags to label what status condition they inflict. Most often, they are linked to a damage type. All status conditions end at the end of the target's next turn unless otherwise stated. The status condiitons in Cards of Chaos are: 
+
+**Bleeding:** Effected creature suffers half the total damage received from the attack that caused the Bleeding effect at the start of their next turn. Healing spells or abilities end this effect.
+
+**Blinded:** 
+- Automatically misses any target outside of touch range
+- Area of Effect spells may only be cast directly forward, backward, left, or right from your position
+- You cannot take reactions
+
+**Burning:** Effected creature suffers half the fire damage that caused the burned effect at the start of their next turn.
+
+**Charmed:** Effected creature views the charmer as a friend and is willing to perform tasks within reason. They will not perform a task that would be the direct result of harm to themselves or harm to other creatures they view as friendly.
+
+**Confused:** Effected creature must attack a random target within range using a kinesthetic action. If no creature is within range, randomly select a creature and move within range before attacking. 
+
+*Deafened:**Effected creature fails any checks or saves that rely on hearing. Deafened creatures automatically take half damage from the Sound damage type.
+
+**Drained:** Effected creature's maximum Chaos Energy is reduced by one until the end of their next turn.
+
+**Horrified:** Effected creature must use all their movement to move away from the source of horror. If the creature tries to attack the source, it must roll a D20. On a roll of 1-10 the attack misses and on a roll of 11-20 the attack hits. Any Chaos Energy used for the attack is still expended.
+
+**Immobilized:** 
+- Effected creature's movement becomes 0 spaces and cannot benefit from any effects to its movement.
+- Effected creature takes 1.25x damage from attacks.
+- Effected creature has disadvantage on Power Saving Throws.
+
+**Necrosis:** Effected creature slowly begins to lose functioning of the affected body part over the course of an 8 hour period beginning at onset. If the effected creature does not receive treatment for the necrosis, the creature dies.
+
+**Paralyzed:** A paralyzed creature has a movement speed of 0 spaces and cannot take actions or responses.
+
+**Poisoned:** Effected creature has minus to their saving throw equal to half your proficiency bonus rounded down until their next turn.
+
+**Primed:** Effected creature takes 1.5x damage from the next attack.
+
+**Prone:** A prone creature suffers an addition 1.25x damage from attacks. Half of their movement, rounded up, is expended to stand up.
+
+**Slowed:** Effected creature's movement is halved, rounded down, and they cannot cast response spells.
+
+**Static:** Effected creature's movement is halved, rounded down, and suffers half the electric damage that caused the static upon using their movement.
+
+**Unconscious:**
+- An unconscious creature has a movement of 0.
+- The creature drops whatever it was holding and falls prone.
+- The creature automatically fails Power, Chaos, and Prowess Saving Throws.
+- Attacks against the creature within 1 space deal 2x damage.
+
+**Weakened:** Effected creature's damage output is halved, rounded down.
+
+
 ### Rest
 
 During the course of a game of Cards of Chaos, your CM may allow for a short or long rest. These rests are meant for your character to recuperate after any of the many trials and tribulations they are sure to take on. The two types of rests allow for varying degrees of recuperation, as described below: 
