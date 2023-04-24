@@ -31,7 +31,7 @@ When creating your character, there will be three distinct factors to guide your
 
 #### Features
 
-Character features will help the player differentiate their character from the other player characters. Since picking a race in this game does not grant any mechanical advantages, the player can instead choose which features their character has from the start. Players receive 5 Character Points at the beginning of character creation used to buy Features from the Character Feature Page. Players can choose any combination of features, but the total Character Points of these features cannot exceed 5, and no Feature can be purchased twice. Character Features grant you the opportunity to make your character unique. You can choose a combination that feels powerful or a combination that is thematic with your background. For example, a background of a scholarly elf could lead to a player choosing darkvision and a skill proficiency in knowledge. Keep in mind, once you solidify your character features with your CM they cannot be changed unless specified by the CM.
+Character features will help the player differentiate their character from the other player characters. Since picking a race in this game does not grant any mechanical advantages, the player can instead choose which features their character has from the start. Players receive 5 Character Points at the beginning of character creation used to buy Features from the Character Feature Page. Players can choose any combination of features, but the total Character Points of these features cannot exceed 5, and no Feature can be purchased twice. Character Features grant you the opportunity to make a character unique. Choose a combination that feels powerful or a combination that is thematic with your background. For example, a background of a scholarly elf could lead to a player choosing darkvision and a skill proficiency in knowledge. Keep in mind, once character features are solidified with the CM they cannot be changed unless specified by the CM.
 
 **Character Point Cost - 1**
 
@@ -51,7 +51,7 @@ Character features will help the player differentiate their character from the o
 **Character Point Cost - 3**
 
 *Damage Resistance:* You gain resistance to one of the following damage types. This type cannot be changed after choosing. 
-Fire, Ice, Electric, Poison, Acid
+Fire, Ice, Electric, Poison, Acid, Sound, Radiant
 
 *Resilience:* When you are reduced to 0 hit points, you are instead reduced to 1 hit point. You cannot use this feature again until you finish a long rest.
 
@@ -192,8 +192,8 @@ When moving through a space currently occupied by an ally, you may move through 
 
 ##### Act
 
-	Choosing to act during a climactic scene where time is of the essence can be stressful. You'll have multiple choices to make with cards you may or may not have been expecting to draw, allies in need, enemies attacking, another player giving you additional information, and maybe you need to go to the bathroom. The last thing you or your table need is someone barking orders at you or making you feel rushed. 
-	When players are just beginning to learn the ins and outs of the game, they won't be familiar with their characters or their decks. Be patient with players when they are first starting, and offer help when asked. And if you are a new player learning everything all at once, just remember there are no wrong choices. Follow your gut and do what's fun. 
+Choosing to act during a climactic scene where time is of the essence can be stressful. You'll have multiple choices to make with cards you may or may not have been expecting to draw, allies in need, enemies attacking, another player giving you additional information, and maybe you need to go to the bathroom. The last thing you or your table need is someone barking orders at you or making you feel rushed. 
+When players are just beginning to learn the ins and outs of the game, they won't be familiar with their characters or their decks. Be patient with players when they are first starting, and offer help when asked. If you are a new player learning everything all at once, just remember there are no wrong choices. Follow your gut and do what's fun. 
 
 ###### Cast Action
 
@@ -295,8 +295,7 @@ Status conditions will arise most often during conflict; physical or social. Cer
 
 **Weakened:** Effected creature's damage output is halved, rounded down.
 
-
-### Rest
+### Rests
 
 During the course of a game of Cards of Chaos, your CM may allow for a short or long rest. These rests are meant for your character to recuperate after any of the many trials and tribulations they are sure to take on. The two types of rests allow for varying degrees of recuperation, as described below: 
 
