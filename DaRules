@@ -96,7 +96,7 @@ Your Power Attribute relates to how much control you have over your physical for
 Your Prowess Attribute relates to how much control you have over social encounters. You will use your Prowess Modifier for social checks and saves.
 
 ##### Tenacity
-Your Health Attribute will inform your total amount of Hit Points (HP) available to you. Your base amount of HP will be determined by your class, with HP being added or subtracted by your Health Modifier. The Health Attribute will also be used for medicine, exhaustion, and overall vitality checks and saves. 
+Your Tenacity Attribute will inform your total amount of Hit Points (HP) available to you. Your base amount of HP will be determined by your class, with HP being added or subtracted by your Health Modifier. The Tenacity Attribute will also be used for medicine, exhaustion, and overall vitality checks and saves. 
 
 #### Class
 Picking the Character Class when developing your character will determine what spells, abilities, and bonuses you have at your disposal. Each class has a distinct set of abilities, however, some spells are not exclusive to one class. Look over each option when determining your Character's Class:
@@ -228,7 +228,22 @@ These effects can become overwhelming with multiple responses being used simulta
 
 ##### Damage Types
 
-Cards of Chaos uses various damage types to provide players with an array of spell options. Some damage types will prove effective or ineffective against different types of enemies. Work with your fellow players when building your deck complement each other's strengths and weaknesses. 
+Cards of Chaos uses various damage types to provide players with a greater array of spell options. Some damage types will prove effective or ineffective against different types of enemies. Work with your fellow players when building your deck to complement each other's strengths and weaknesses. The damage types are: 
+
+- Acid
+- Bludgeoning
+- Electric
+- Fire
+- Force
+- Ice
+- Necrotic
+- Piercing
+- Poison
+- Psychic
+- Radiant
+- Slashing
+- Sound
+- Wind
 
 ##### Status Conditions
 
